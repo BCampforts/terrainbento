@@ -51,7 +51,7 @@ from .derived_models import (
     BasicStVs,
     BasicTh,
     BasicThVs,
-    BasicVs,
+    BasicVs, 
 )
 from .model_template import ModelTemplate
 from .output_writers import (
